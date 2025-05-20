@@ -1,0 +1,5 @@
+<section class="blog-post">
+	<h2>День</h2>
+	<p class="meta">Дата</p>
+	<p>Текст</p>
+</section>ІІ
